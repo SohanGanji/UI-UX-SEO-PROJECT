@@ -17,12 +17,12 @@ project a/
 │   ├── calendar.js                   # Interactive date range selector, blocked dates & pricing calculator
 │   └── compare.js                    # Equipment comparison module
 ├── docs/
+│   ├── ON_PAGE_SEO_TECHNIQUES_REPORT.md # Question 4: Factor-by-factor On-Page SEO audit report with tool screenshots
+│   ├── ON_PAGE_SEO_TECHNIQUES_REPORT.html # Printable / PDF-ready HTML report with embedded screenshot previews
 │   ├── SEO_OPTIMIZATION_REPORT.md    # Complete technical SEO architecture, JSON-LD schemas & Core Web Vitals
 │   └── WEBSITE_SCREENSHOTS_DOCUMENT.md # Interface walkthrough, UI feature highlights & screenshot guide
-├── index.html                        # Home landing page with Viewfinder HUD, Shoot-Type Finder & Featured Gear
-├── rent.html                         # Rental catalog with live date duration pricing, filters & direct cart
-├── product.html                      # Individual gear detail page with 7-column calendar & live quote
-├── booking.html                      # Multi-item cart checkout, ID verification form & collapsible FAQ
+├── html/                             # Organized web pages (index, rent, product, booking)
+├── website images/                   # High-resolution website interface and audit screenshots
 ├── robots.txt                        # Search crawler directives and sitemap reference
 ├── sitemap.xml                       # XML sitemap indexing all canonical routes
 └── README.md                         # Project documentation and directory structure
